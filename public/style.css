@@ -1,0 +1,38 @@
+body {
+ background-color: black;
+ margin: 1em;
+ padding: 1em;
+}
+
+button {
+    color: black;
+    font-size: 16px;
+  }
+
+.apis {
+  color: white;
+}
+.wordGame{
+  width: 70%;
+  margin: 0 auto ;
+  background-color: grey ;
+  border: 5px solid black ;
+  padding: 20px;
+
+  }
+
+.phoneBill {
+  width: 70%;
+  margin: 0  auto;
+  background-color: grey ;
+  border: 5px solid black ;
+  padding: 20px;
+  }
+
+.enoughAirtime{
+  width: 70%;
+  margin: 0 auto;
+  background-color: grey ;
+  border: 5px solid black ;
+  padding: 20px;
+}
